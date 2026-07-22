@@ -1,6 +1,7 @@
 # wine_quality
-file
+
 🍷 Wine Quality Prediction using Machine Learning
+
 📌 Project Overview
 
 The Wine Quality Prediction project is a Streamlit-based Machine Learning web application that predicts the quality of red wine based on its physicochemical properties. The application uses a trained Random Forest model to classify wine quality from user-provided input features. It features an attractive, interactive interface with a custom background, styled input fields, and real-time prediction capabilities.
