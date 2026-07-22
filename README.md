@@ -98,6 +98,8 @@ Support multiple machine learning algorithms for comparison
 Visualize feature importance
 Deploy the application on Streamlit Community Cloud, Render, or Hugging Face Spaces
 Store prediction history for users
+
+
 👨‍💻 Author
 
 M. Navya Sahithi
