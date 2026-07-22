@@ -55,13 +55,6 @@ Accept user inputs through the Streamlit interface.
 Scale the input features.
 Predict the wine quality.
 Display the predicted quality instantly.
-▶️ Installation
-Clone the repository
-git clone https://github.com/yourusername/Wine-Quality-Prediction.git
-Navigate to the project folder
-cd Wine-Quality-Prediction
-Install dependencies
-pip install -r requirements.txt
 ▶️ Run the Application
 streamlit run app.py
 
